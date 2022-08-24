@@ -1,8 +1,11 @@
 # cis133-resources
 
 https://www.w3schools.com/html/
-a good one I got introduced to in highschool. 
-has explanations for every element and interactive examples to explore with for each element.
-it also has a css page, which works the exact same way
+This was my main resource for html back in high school. 
+It might be a little cramped, but it's my ol' reliable for when it comes to referencing and using html elements.
+With lists full of elements, how to use them and interactive examples of using them, it should serve as a good guide going forward.
 
-https://www.w3schools.com/css/default.asp
+https://webplatform.github.io/docs/css/
+Found after some light googling. 
+It has several documents for working with css, every element and what it does, and learning how to actually work with it if you have no experience.
+Seems like it'll come in handy.
