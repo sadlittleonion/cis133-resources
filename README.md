@@ -8,4 +8,4 @@ With lists full of elements, how to use them and interactive examples of using t
 https://webplatform.github.io/docs/css/
 Found after some light googling. 
 It has several documents for working with css, every element and what it does, and learning how to actually work with it if you have no experience.
-Seems like it'll come in handy.
+I get the feeling I'll be having to reference this quite a bit in these next few weeks.
